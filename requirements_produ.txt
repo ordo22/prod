@@ -3,4 +3,3 @@ pandas
 plotly
 numpy
 statsmodels
-import plotly.express as px
